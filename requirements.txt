@@ -1,0 +1,7 @@
+Django
+South
+Pillow
+Requests
+gunicorn
+MySQL-python
+# Add your own pip packages below to add them to the installation
