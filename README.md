@@ -45,16 +45,3 @@ Adding your other packages
 =
 
 You can add your own packages to the installation by typing the package name at the bottom of the requirements.txt and running setup.sh again.
-
-
-Authors
-=
-
-Paul Hallett http://phalt.co
-
-Contributors
-=
-
-Ross Masters http://www.rossmasters.com
-
-Danilo Bargen https://github.com/dbrgn
